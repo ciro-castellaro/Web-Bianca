@@ -19,3 +19,8 @@ Página web romántica de una sola sección, hecha a mano para Bianca. Es un sit
 - HTML5 + CSS3 (variables CSS, Grid/Flexbox, Google Fonts)
 - JavaScript vanilla, sin frameworks ni librerías
 - Publicado con GitHub Pages
+
+## Proximas implementaciones
+- Pasar a React []
+- Hacerla SPA, y agregar nuevas rutas []
+- Pasar Javascript a Typescript []
