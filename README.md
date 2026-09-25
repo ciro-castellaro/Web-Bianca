@@ -1,4 +1,4 @@
-# Web Para Bianca
+# Romantic Web for Bianca
 
 A romantic single-section website, handmade for Bianca. It is a static site (HTML, CSS, and a bit of JavaScript), with no backend or dependencies, designed with a mobile-first approach.
 
