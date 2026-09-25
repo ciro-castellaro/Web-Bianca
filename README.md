@@ -1,26 +1,27 @@
 # Web Para Bianca
 
-Página web romántica de una sola sección, hecha a mano para Bianca. Es un sitio estático (HTML, CSS y un poco de JS), sin backend ni dependencias, pensado mobile-first.
+A romantic single-section website, handmade for Bianca. It is a static site (HTML, CSS, and a bit of JavaScript), with no backend or dependencies, designed with a mobile-first approach.
 
-**Ver la página:** https://ciro-castellaro.github.io/Web-Bianca/
+**View the website:** https://ciro-castellaro.github.io/Web-Bianca/
 
-## Qué tiene
+## Features
 
-- Encabezado con mensaje personal y nombre.
-- Contador en vivo de tiempo juntos (años, meses, días, horas, minutos y segundos).
-- Corazones flotando que aparecen al scrollear.
-- Sección de "pequeñas cosas que amo de vos".
-- Carta dedicada.
-- Galería de fotos.
-- Transiciones de aparición al bajar por la página (CSS puro, `animation-timeline`).
+* Header with a personal message and name.
+* Live counter showing the time spent together (years, months, days, hours, minutes, and seconds).
+* Floating hearts that appear while scrolling.
+* "Little things I love about you" section.
+* Dedicated love letter.
+* Photo gallery.
+* Reveal transitions while scrolling down the page (pure CSS, `animation-timeline`).
 
 ## Stack
 
-- HTML5 + CSS3 (variables CSS, Grid/Flexbox, Google Fonts)
-- JavaScript vanilla, sin frameworks ni librerías
-- Publicado con GitHub Pages
+* HTML5 + CSS3 (CSS variables, Grid/Flexbox, Google Fonts)
+* Vanilla JavaScript, with no frameworks or libraries
+* Deployed with GitHub Pages
 
-## Proximas implementaciones
-- Pasar a React []
-- Hacerla SPA, y agregar nuevas rutas []
-- Pasar Javascript a Typescript []
+## Upcoming Implementations
+
+* Migrate to React []
+* Turn it into an SPA and add new routes []
+* Migrate JavaScript to TypeScript []
